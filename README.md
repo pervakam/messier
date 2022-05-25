@@ -1,4 +1,4 @@
-# (https://pervakam.github.io/messier/)
+# https://pervakam.github.io/messier/
 
 ### Project setup
 ```
